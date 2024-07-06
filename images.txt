@@ -1,4 +1,4 @@
 #支持私库
-ht944/rabbit:latest
+ht944/rabbitpro:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
